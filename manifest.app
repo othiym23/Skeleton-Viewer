@@ -1,6 +1,6 @@
 {
-    "title": "Simple Viewer",
-    "desc": "One line description of your viewer",
-    "viewer": "photos",
+    "title": "Forrest's inner sphere of inky blacknuss",
+    "desc": "I MAKE EVERYTHING BLACK BECAUSE I AM SAD",
+    "viewer": "links",
     "static":"true"
 }
