@@ -1,0 +1,21 @@
+{
+  "author": "othiym23",
+  "name": "app-othiym23-skeleton-viewer",
+  "description": "SO DARK",
+  "version": "0.0.1",
+  "repository": {
+    "title": "INNER SPHERE OF INKY BLACKNUSS",
+    "handle": "app-othiym23-skeleton-viewer",
+    "type": "app",
+    "author": "othiym23",
+    "static": true,
+    "update": true,
+    "github": "https://github.com/othiym23/skeleton-viewer",
+    "url": ""
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
